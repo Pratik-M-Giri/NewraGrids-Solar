@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Anton&family=Great+Vibes&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Libertinus+Math&family=Libertinus+Serif+Display&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Outfit:wght@100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Slab:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+/* App.css ya global.css me add karein */
+
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400; /* 100, 300, 400, 500, 700, 900 etc. try karke dekho */
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400; /* normal text ke liye */
+}
+
+h2 {
+  font-family: 'Anton', sans-serif;
+  font-weight: 300; /* thoda halka karne ke liye */
+}
